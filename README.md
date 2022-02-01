@@ -111,3 +111,4 @@ $ git config --global user.email "username@users.noreply.github.com"
 - Git
   - https://docs.github.com/en/github/getting-started-with-github/set-up-git
   - http://swcarpentry.github.io/git-novice/
+  - https://www.freecodecamp.org/news/learn-the-basics-of-git-in-under-10-minutes-da548267cc91/
